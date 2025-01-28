@@ -203,13 +203,11 @@ This project focuses on evaluating various **sampling methods** for handling imb
 
 ### 2. Random Forest Classifier
 
-### 3. BalancedBaggingClassifier
+### 3. EasyEnsembleClassifier
 
-### 4. EasyEnsembleClassifier
+### 4. XGBoost
 
-### 5. XGBoost
-
-### 6. CatBoost
+### 5. CatBoost
 ---
 
 ## Output Data
